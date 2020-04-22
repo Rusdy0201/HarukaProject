@@ -1,0 +1,2 @@
+# HarukaProject
+Personal Assistant Project
